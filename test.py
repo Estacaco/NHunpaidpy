@@ -25,7 +25,9 @@ root=tk.Tk()
 frame=tk.Frame(root,width=480,height=320)
 
 
-tk.Frame(root,width=480,height=320).pack()
+# tk.Frame(root,width=480,height=320).pack() this makes a new frame over the one configured above
+frame.configure(bg="blue")
+frame.pack()
 frame2=tk.Frame(root,width=100,height=100)
 frame3=tk.Frame(root,width=100,height=100)
 frame4=tk.Frame(root,width=100,height=100)
