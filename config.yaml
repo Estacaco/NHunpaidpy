@@ -6,9 +6,9 @@ mining:
   display: unpaid,wallet
   walletcurrency: cad
   enabled: true
-  key: 3d13168f-6b85-44aa-bff5-20fb60731031
-  organisation: 6802cbfc-7854-4ecb-8526-f6abb1439bb6
-  secret: 1f6a6143-5cd5-47a9-bf16-1d256d2dc9097d2ece65-ae84-4206-8138-23bbe8d5e4a4
+  key: 
+  organisation: 
+  secret: 
 ticker:
   coinname: true
   currency: ravencoin,bitcoin,ethereum,stellar,bitcoin-cash,monero,mithril,litecoin
